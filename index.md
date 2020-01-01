@@ -11,10 +11,11 @@
 
 |NO|TITLE|3系版|4系版|MAINTE|PUBLIC|MARKET|DESCRIPTION|
 |--|-----|:--:|:--:|:----:|:----:|:----:|-----------|
-|30|[MailGoogleRecaptcha](https://github.com/materializing/MailGoogleRecaptcha)|-|有|Run|Public|-|メールフォームにGoogle reCAPTCHA（v3）を設定できる
-|29|[SearchMailMessage](https://github.com/materializing/SearchMailMessage)|有|-|Run|Public|-|受信メール一覧画面に検索機能を追加できる
-|28|AdminLayoutSwitcher|-|-|Run (50%)|Private|-|-
-|27|EasyFaq|-|-|Run (30%)|Private|-|-
+|31|[MailGoogleRecaptcha](https://github.com/materializing/MailGoogleRecaptcha)|-|有|Run|Public|-|メールフォームにGoogle reCAPTCHA（v3）を設定できる
+|30|[SearchMailMessage](https://github.com/materializing/SearchMailMessage)|有|-|Run|Public|-|受信メール一覧画面に検索機能を追加できる
+|29|AdminLayoutSwitcher|-|-|Run (50%)|Private|-|-
+|28|EasyFaq|-|-|Run (30%)|Private|-|-
+|27|ShoppingRecord|有|-|Run|Private|-|お買い物一覧を記録・検索できるコンテンツを作成できる
 |26|[MailClientRecorder](https://github.com/materializing/MailClientRecorder)|有|-|Run|Private|-|メールフォームで送信ボタンを押したユーザー情報（IPアドレス、ユーザーエージェント、クッキー）を取得し、記録できる
 |25|[CallableEditorTemplate](https://github.com/materializing/CallableEditorTemplate)|有|-|Run|Public|公開中|記事にエディタテンプレート設定欄を追加でき、公開側に表示できる
 |24|[PopularBlogPost](https://github.com/materializing/PopularBlogPost)|有|有|Stop|Public|公開中|ブログ記事のアクセス数を記録して、閲覧数の多い記事を表示できる
