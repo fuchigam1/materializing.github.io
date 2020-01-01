@@ -4,11 +4,10 @@
 
 
 ## Plugins
+
 - MAINTE・・・MAINTENANCE: Run or Stop / 継続中 or 停止
 - PUBLIC・・・PUBLIC_STATE: Public or Private / 公開中 or 公開してない（できない）
 - MARKET・・・baserMarket: baserマーケットに掲載
-
-### Public
 
 |NO|TITLE|3系版|4系版|MAINTE|PUBLIC|MARKET|DESCRIPTION|
 |--|-----|:--:|:--:|:----:|:----:|:----:|-----------|
@@ -46,15 +45,14 @@
 
 ## Themes
 
-- MARKET・・・baserMarket: baserマーケットに掲載
 - MAINTE・・・MAINTENANCE: Run or Stop / 継続中 or 停止
+- PUBLIC・・・PUBLIC_STATE: Public or Private / 公開中 or 公開してない（できない）
+- MARKET・・・baserMarket: baserマーケットに掲載
 
-### Public
-
-|NO|TITLE|MARKET|MAINTE|DESCRIPTION|
-|:--:|:-----------|:------------|:------------:|------------|
-|02|[materialize](https://github.com/materializing/materialize_baser)|公開中|Run|Materialize を利用したbaserCMS用テーマ[baserCMSテーマコンテスト2015参加作品: 佳作受賞]
-|01|[bootstrap_baser](https://github.com/materializing/bootstrap_baser)|公開中|Run|Twitter Bootstrap を利用したbaserCMS用テーマ [baserCMSテーマコンテスト2014参加作品: スケルトンテーマ受賞]
+|NO|TITLE|3系版|4系版|MAINTE|PUBLIC|MARKET|DESCRIPTION|
+|--|-----|:--:|:--:|:----:|:----:|:----:|-----------|
+|02|[materialize](https://github.com/materializing/materialize_baser)|有|-|Stop|Public|公開中|Materialize を利用したbaserCMS用テーマ[baserCMSテーマコンテスト2015参加作品: 佳作受賞]
+|01|[bootstrap_baser](https://github.com/materializing/bootstrap_baser)|有|-|Stop|Public|公開中|Twitter Bootstrap を利用したbaserCMS用テーマ [baserCMSテーマコンテスト2014参加作品: スケルトンテーマ受賞]
 
 
 #### Markdown.
