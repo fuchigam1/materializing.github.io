@@ -8,8 +8,9 @@
 - MAINTE・・・MAINTENANCE: Run or Stop / 継続中 or 停止
 
 ### Public
-|NO|TITLE|DESCRIPTION|MARKET|MAINTE|
-|:--:|:-----------|:------------|:------------:|:------------:|
+
+NO | TITLE | DESCRIPTION | MARKET | MAINTE
+-- | ----- | ----------- | ------ | ------
 |22|[SearchMailMessage](https://github.com/materializing/SearchMailMessage)|受信メール一覧画面に検索機能を追加できる|-|Run|
 |21|[MailClientRecorder](https://github.com/materializing/MailClientRecorder)|メールフォームで送信ボタンを押したユーザー情報（IPアドレス、ユーザーエージェント、クッキー）を取得し、記録できる|-|Run|
 |20|[CallableEditorTemplate](https://github.com/materializing/CallableEditorTemplate)|記事にエディタテンプレート設定欄を追加でき、公開側に表示できる|公開中|Run|
@@ -34,6 +35,7 @@
 |01|fb_likebutton|いいねボタンを表示できる|-|Stop|
 
 ### Private
+
 |NO|TITLE|DESCRIPTION|MARKET|MAINTE|
 |:--:|:-----------|:------------|:------------:|:------------:|
 |09|ブログタグに画像が設定できる|-|-|Run|
@@ -47,6 +49,7 @@
 |01|制作補助関連|-|-|Run|
 
 ### In Progress
+
 |NO|TITLE|DESCRIPTION|MARKET|MAINTE|％|
 |:-:|:--|:--|:--:|:------------:|:--:|
 |02|AdminLayoutSwitcher|-|-|Run|50|
@@ -54,10 +57,12 @@
 
 
 ## Themes
+
 - MARKET・・・baserMarket: baserマーケットに掲載
 - MAINTE・・・MAINTENANCE: Run or Stop / 継続中 or 停止
 
 ### Public
+
 |NO|TITLE|DESCRIPTION|MARKET|MAINTE|
 |:--:|:-----------|:------------|:------------:|:------------:|
 |02|[materialize](https://github.com/materializing/materialize_baser)|Materialize を利用したbaserCMS用テーマ[baserCMSテーマコンテスト2015参加作品: 佳作受賞]|公開中|Run|
